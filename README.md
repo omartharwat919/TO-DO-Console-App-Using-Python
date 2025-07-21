@@ -22,8 +22,8 @@ This app allows users to manage their daily tasks easily from the terminal.
 - Python 3.x
 - Built-in modules
 <img width="789" height="489" alt="Screenshot 2025-07-21 184118" src="https://github.com/user-attachments/assets/b1bf137f-b795-4388-be7f-26cfbc512cdf" />
-<img width="868" height="513" alt="Screenshot 2025-07-21 184349" src="https://github.com/user-attachments/assets/226c8913-518e-4b5a-9593-8ff6a4878a51" />
-<img width="717" height="288" alt="Screenshot 2025-07-21 184359" src="https://github.com/user-attachments/assets/d0e50060-cc4c-43a7-971a-98271bd90fa6" />
+<img width="789" height="489" alt="Screenshot 2025-07-21 184349" src="https://github.com/user-attachments/assets/226c8913-518e-4b5a-9593-8ff6a4878a51" />
+<img width="789" height="489" alt="Screenshot 2025-07-21 184359" src="https://github.com/user-attachments/assets/d0e50060-cc4c-43a7-971a-98271bd90fa6" />
 
 
 
