@@ -1,0 +1,170 @@
+{
+    "1": {
+        "title": "Finish project report",
+        "description": "Complete the report for the upcoming meeting.",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "2025-04-15",
+        "owner": "john.doe@gmail.com"
+    },
+    "2": {
+        "title": "Grocery shopping",
+        "description": "Get the weekly groceries for the family.",
+        "priority": "Medium",
+        "status": "Completed",
+        "due_date": "2025-04-10",
+        "owner": "john.doe@gmail.com"
+    },
+    "3": {
+        "title": "Clean the kitchen",
+        "description": "Deep clean the kitchen before the weekend.",
+        "priority": "Low",
+        "status": "To-do",
+        "due_date": "2025-04-11",
+        "owner": "jane.smith@hotmail.com"
+    },
+    "4": {
+        "title": "Buy new shoes",
+        "description": "Pick up new shoes from the mall.",
+        "priority": "Medium",
+        "status": "To-do",
+        "due_date": "2025-04-14",
+        "owner": "jane.smith@hotmail.com"
+    },
+    "5": {
+        "title": "Call the plumber",
+        "description": "Schedule an appointment to fix the sink.",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "2025-04-13",
+        "owner": "mohamed.ali@example.com"
+    },
+    "6": {
+        "title": "Study for final exams",
+        "description": "Study chapters 3 to 5 for the final exams next week.",
+        "priority": "High",
+        "status": "To-do",
+        "due_date": "2025-04-20",
+        "owner": "mohamed.ali@example.com"
+    },
+    "7": {
+        "title": "Complete Python course",
+        "description": "Finish the Python programming course by the end of this week.",
+        "priority": "High",
+        "status": "To-do",
+        "due_date": "2025-04-12",
+        "owner": "lisa.jones@gmail.com"
+    },
+    "8": {
+        "title": "Work on portfolio",
+        "description": "Add new projects to my online portfolio.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "due_date": "2025-04-15",
+        "owner": "lisa.jones@gmail.com"
+    },
+    "9": {
+        "title": "Clean the living room",
+        "description": "Vacuum the carpets and clean the shelves.",
+        "priority": "Low",
+        "status": "Completed",
+        "due_date": "2025-04-09",
+        "owner": "ahmed.elgohary@yahoo.com"
+    },
+    "10": {
+        "title": "Fix the laptop",
+        "description": "Repair the screen issue with the laptop.",
+        "priority": "High",
+        "status": "To-do",
+        "due_date": "2025-04-18",
+        "owner": "ahmed.elgohary@yahoo.com"
+    },
+    "11": {
+        "title": "Prepare for meeting",
+        "description": "Prepare presentation slides for tomorrow's meeting.",
+        "priority": "High",
+        "status": "To-do",
+        "due_date": "2025-04-10",
+        "owner": "emily.white@outlook.com"
+    },
+    "12": {
+        "title": "Buy birthday gift",
+        "description": "Get a gift for Sarah's birthday next week.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "due_date": "2025-04-16",
+        "owner": "emily.white@outlook.com"
+    },
+    "13": {
+        "title": "Renew library books",
+        "description": "Renew the library books for another week.",
+        "priority": "Low",
+        "status": "Completed",
+        "due_date": "2025-04-08",
+        "owner": "omartharwat.100@gmail.com"
+    },
+    "14": {
+        "title": "Research for thesis",
+        "description": "Find relevant articles for the thesis topic.",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "2025-04-17",
+        "owner": "omartharwat.100@gmail.com"
+    },
+    "15": {
+        "title": "Submit tax documents",
+        "description": "Complete and submit the tax forms before the deadline.",
+        "priority": "High",
+        "status": "To-do",
+        "due_date": "2025-04-25",
+        "owner": "adamahmed55@yahoo.com"
+    },
+    "16": {
+        "title": "Clean the car",
+        "description": "Wash and clean the car inside and out.",
+        "priority": "Medium",
+        "status": "To-do",
+        "due_date": "2025-04-13",
+        "owner": "adamahmed55@yahoo.com"
+    },
+    "17": {
+        "title": "Organize photos",
+        "description": "Sort out and organize family photos.",
+        "priority": "Low",
+        "status": "Completed",
+        "due_date": "2025-04-06",
+        "owner": "henrytom789@mail.com"
+    },
+    "18": {
+        "title": "Update website",
+        "description": "Make the necessary updates to the website.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "due_date": "2025-04-19",
+        "owner": "henrytom789@mail.com"
+    },
+    "19": {
+        "title": "Fix broken door",
+        "description": "Repair the door lock that has been malfunctioning.",
+        "priority": "Medium",
+        "status": "To-do",
+        "due_date": "2025-04-14",
+        "owner": "ahmedmohamed@gmial.com"
+    },
+    "20": {
+        "title": "Prepare dinner",
+        "description": "Cook dinner for the family tonight.",
+        "priority": "Low",
+        "status": "Completed",
+        "due_date": "2025-04-07",
+        "owner": "ahmedmohamed@gmial.com"
+    },
+    "21": {
+        "title": "Review project code",
+        "description": "Ensure the project follows OOP principles.",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "2025-04-11",
+        "owner": "ahmedmohamed@gmial.com"
+    }
+}

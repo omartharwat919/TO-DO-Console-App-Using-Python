@@ -1,0 +1,86 @@
+{
+    "john.doe@gmail.com": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@gmail.com",
+        "password": "Password#123",
+        "phone": "01012345678"
+    },
+    "jane.smith@hotmail.com": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@hotmail.com",
+        "password": "Password@456",
+        "phone": "01123456789"
+    },
+    "mohamed.ali@example.com": {
+        "first_name": "Mohamed",
+        "last_name": "Ali",
+        "email": "mohamed.ali@example.com",
+        "password": "Password^789",
+        "phone": "01234567890"
+    },
+    "lisa.jones@gmail.com": {
+        "first_name": "Lisa",
+        "last_name": "Jones",
+        "email": "lisa.jones@gmail.com",
+        "password": "Password*101",
+        "phone": "01098765432"
+    },
+    "ahmed.elgohary@yahoo.com": {
+        "first_name": "Ahmed",
+        "last_name": "Elgohary",
+        "email": "ahmed.elgohary@yahoo.com",
+        "password": "Mypasswor&d123",
+        "phone": "01155667788"
+    },
+    "emily.white@outlook.com": {
+        "first_name": "Emily",
+        "last_name": "White",
+        "email": "emily.white@outlook.com",
+        "password": "Emily%123",
+        "phone": "01236549872"
+    },
+    "omartharwat.100@gmail.com": {
+        "first_name": "Omar",
+        "last_name": "Tharwat",
+        "email": "omartharwat.100@gmail.com",
+        "password": "Omar$$10230",
+        "phone": "01065176696"
+    },
+    "adamahmed55@yahoo.com": {
+        "first_name": "adam",
+        "last_name": "ahmed",
+        "email": "adamahmed55@yahoo.com",
+        "password": "Adam#1456321",
+        "phone": "01555819782"
+    },
+    "henrytom789@mail.com": {
+        "first_name": "henry",
+        "last_name": "tom",
+        "email": "henrytom789@mail.com",
+        "password": "Henry@145236",
+        "phone": "01025796832"
+    },
+    "ahmedmohamed@gmial.com": {
+        "first_name": "ahmed",
+        "last_name": "mohamed",
+        "email": "ahmedmohamed@gmial.com",
+        "password": "Ahmedmohamed@10",
+        "phone": "01069784512"
+    },
+    "moroahmed222@gmail.com": {
+        "first_name": "moro",
+        "last_name": "ahmed",
+        "email": "moroahmed222@gmail.com",
+        "password": "Moroahmed@222",
+        "phone": "01147856932"
+    },
+    "hishamahmed10@gmail.com": {
+        "first_name": "hisham",
+        "last_name": "ahmed",
+        "email": "hishamahmed10@gmail.com",
+        "password": "Hishamahmed@10",
+        "phone": "01254789963"
+    }
+}
